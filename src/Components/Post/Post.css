@@ -1,0 +1,44 @@
+.AdMainDiv{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.AdDivHeading{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #002f34;
+    margin-left: 20px;
+}
+
+.AdCardDiv{
+    /* background-color: #f6fafc; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
+}
+
+.card{
+    /* outline-color: black !important; */
+    border-color: rgb(124, 106, 106) !important;
+    /* border-top-style: 30px; */
+    /* background-color: blueviolet; */
+    /* height: 12rem; */
+}
+
+.priceHeading{
+    display: inline-block;
+}
+
+.card-img-top{
+    /* padding-top: 10px; */
+    /* width: 30px; */
+    height: 150px;
+}
+
+.AdCard2Div{
+    background-color: #f6fafc;
+}
+
+
+
+

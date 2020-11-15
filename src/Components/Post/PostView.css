@@ -1,0 +1,165 @@
+.Card{
+    width: 100%;
+    height: 400px !important;
+    margin-bottom: 15px;
+}
+
+.cardimgtop{
+    box-shadow: inset 0 0 0 1px rgba(0,47,52,.64) !important;
+    border: 2px solid rgb(165, 160, 160) !important;
+    height: 100% !important;
+}
+
+/* .Main{ */
+    /* display: inline-block; */
+    /* border: 1px solid blue; */
+/* } */
+
+/* .MainDi{ */
+    /* background-color: #f6fafc !important; */
+/* } */
+
+.Maindiv{
+    padding: 15px 15px;
+    width: 60%;
+    /* height: 300px; */
+    /* border: 1px solid blue; */
+    /* display: block; */
+    float: left;
+    /* background-color: #f6fafc !important; */
+
+}
+
+.Heading{
+    color: #002f34;
+    font-weight: 700;
+    font-size: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.despara{
+    font-weight: normal;
+    color:#002f34;
+    line-height: 20px;
+}
+
+.descriptionDiv{
+    /* border: 1px solid rgb(189, 69, 69); */
+    box-shadow: inset 0 0 0 1px rgba(0,47,52,.64);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    /* width: 100% !important; */
+    height: 150px;
+    text-align: left;
+    /* margin-left: 15px; */
+    padding-left: 17px;
+    /* color:rgba(9, 45, 49, 0.64); */
+    margin-bottom: 15px;
+}
+
+.MainDiv2{
+    /* margin-left: 10px; */
+    width: 35%;
+    padding: 15px 15px;
+    float: right;
+ 
+}
+
+.priceDiv{    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    box-shadow: inset 0 0 0 1px rgba(0,47,52,.64);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    height: 120px;
+    text-align: left;
+    padding-left: 17px;
+}
+
+.pricepara{
+    color:#002f34;
+    line-height: 20px;
+}
+
+.tittleDiv{
+    box-shadow: inset 0 0 0 1px rgba(0,47,52,.64);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    height: 120px;
+    text-align: left;
+    padding-left: 17px;
+}
+
+.SellerDiv{
+    box-shadow: inset 0 0 0 1px rgba(0,47,52,.64);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    /* height: 120px; */
+    text-align: left;
+    padding-left: 17px;
+}
+
+.ChatDiv{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: inset 0 0 0 1px rgba(0,47,52,.64);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 17px;
+}
+
+.chatInp{
+    border-radius: 5px;
+    border: 2px solid rgb(165, 160, 160);
+    padding-right: 12px;
+    margin-right: 12px;
+    font-weight: 500;
+}
+
+.chatInp:focus{
+    outline-color: rgb(68, 163, 241);
+    border: 3px;
+
+}
+
+.SendBTN{
+    color: #fff;
+    background-color: #002f34;
+    border-radius: 4px;
+    border: 5px solid #002f34;
+    padding: 0 7px;
+    text-align: center;
+    font-size: 14px;
+    height: 40px;
+}
+
+.avatar{
+    vertical-align: middle;
+    width: 50px;
+    margin-right:18px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.ChatBTN{
+    color: #fff;
+    background-color: #002f34;
+    border-radius: 4px;
+    border: 5px solid #002f34;
+    padding: 0 7px;
+    text-align: center;
+    font-size: 14px;
+    height: 40px;
+
+}
+
+.BTN{
+    text-align: center;
+    margin-bottom: 10px;
+}

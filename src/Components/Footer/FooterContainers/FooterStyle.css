@@ -1,0 +1,107 @@
+.parentDiv{
+        z-index: 8;
+        width: 100%;
+        min-height: 48px;
+        box-sizing: border-box;
+        border-top: 1px solid rgba(0,47,52,.2);
+}
+
+.parentDiv,.FooterCategoriesBody{
+    /* background-color: #ebeeef; */
+    margin: auto;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Sections {
+    font-weight: 700;
+    text-transform: uppercase;
+    flex-basis: 20%;
+}
+
+.List {
+    list-style-type: none;
+
+}
+
+
+.anch:hover{
+    text-decoration: none;
+}
+
+.anch{
+    color: rgba(0,47,52,.64) !important;
+}
+
+
+.parentDiv,.childDiv,.Sections,.anch {
+    font-weight: 400;
+    text-transform: none;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 12px;
+    color: #002f34;
+    /* color: rgba(0,47,52,.64); */
+}
+
+.parentDiv,.childDiv,.Sections{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+
+.parentDiv,.childDiv {
+    display: flex;
+    background: #ebeeef;
+    padding: 10px 0 10px;
+
+    line-height: 21px;
+}
+
+.parentDiv,.childDiv,.Sections {
+    font-weight: 700;
+    text-transform: uppercase;
+    flex-basis: 20%;
+    font-size: 14px;
+ 
+}
+
+.parentDiv ,.childDiv, .Sections, .followSec {
+    display: block;
+}
+
+
+
+.parentDiv, .childDiv, .Sections,.anch ,span, svg ,path {
+    fill: rgba(0,47,52,.64);
+}
+
+
+
+.parentDiv ,.androLink {
+    padding-right: 8px;
+}
+
+
+
+.sp{
+    margin-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

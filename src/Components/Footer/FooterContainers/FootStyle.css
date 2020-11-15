@@ -1,0 +1,38 @@
+/* ////////////////   Foot Style    ////////////////////// */
+
+
+.FootDiv {
+    color: #fff;
+    font-size: 12px;
+    line-height: 18px;
+    background: #002f34;
+    padding: 16px 0;
+}
+
+.FootDiv, .FootSection {
+    flex-direction: row-reverse;
+}
+.FootSection {
+    margin: auto;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.FootDiv,.FSec, span {
+    font-weight: 700;
+    padding-right: 8px;
+    padding-left: 7px;
+}
+.FootDiv, .FootSection {
+    flex-direction: row-reverse;
+}
+.FootDiv, .FSec, .FootAnch {
+    color: #fff !important;
+}
+.FootAnch {
+    text-decoration: none;
+    cursor: pointer;
+}
+

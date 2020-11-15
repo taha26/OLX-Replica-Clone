@@ -1,0 +1,103 @@
+/* .OLXADDLOGO{
+    text-align: center ;
+} */
+.OLXADDLOGOIMG{
+    /* text-align: center ; */
+    width: 200px;
+    /* height: 50px; */
+}
+
+.Main{
+    text-align: center;
+}
+
+.formHeading{
+    margin-bottom: 28px;
+    /* -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation; */
+    color: #002f34;
+
+}
+
+.form{
+    /* padding-bottom: 50px; */
+    margin-bottom: 28px;
+    /* ////////////////////////////////////// */
+
+    /* -webkit-tap-highlight-color: transparent; */
+    /* touch-action: manipulation; */
+    color: #002f34;
+
+    /* ////////////////////////////////////// */
+
+
+    background: #fff;
+    box-shadow: inset 0 0 0 1px rgba(0,47,52,.64);
+
+    border-radius: 10px;
+    /* border-style: none; */
+    margin: 10px  150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+
+}
+
+.detailsHeadingDiv{
+   box-shadow: inset 0 0 0 1px rgba(0,47,52,.64);
+    padding: 10px 0;
+    padding-bottom: 20px;
+    margin: 10px 10px;
+    border-radius: 10px;
+}
+
+
+.detailsDiv{
+
+    text-align: left;
+    margin-left: 10px;
+
+
+
+
+}
+
+.detailsDivInput{
+
+    border-radius: 5px;
+    border: 2px solid rgb(165, 160, 160);
+    /* outline: none; */
+    width: 40%;
+    height: 40px;
+   
+}
+
+.teaxtArea:focus,.detailsDivInput:focus{
+    outline-color: rgb(68, 163, 241);
+    border: 3px;
+
+}
+
+
+.teaxtArea{
+    resize: none;
+    border-radius: 5px;
+    border: 2px solid rgb(165, 160, 160);
+}
+
+.postNow{
+    border: none;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    background-color: rgb(161, 164, 167);
+    color: rgb(44, 51, 54);
+    /* padding: 1px 15px;  */
+    /* padding-bottom: 15px; */
+}
+
+.foot{
+    padding-top: 20px;
+}
+
